@@ -18,5 +18,5 @@ public class CountRepeat {
         int x = 7;
         System.out.println(countRepeat(arr, x));
     }
-
+// to do
 }
